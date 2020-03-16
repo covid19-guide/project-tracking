@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Description
-[Describe this 
+[Describe what needs to happen or is up for consideration.]
 
 # Slack Channel
 [Which channel is this conversation happening in?]
